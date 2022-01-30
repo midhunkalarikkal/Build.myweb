@@ -1,0 +1,99 @@
+html 
+{ 
+    scroll-behavior: smooth;
+}
+/*navbar*/
+.header
+{ 
+    background-color: #9dd3d0; 
+    width: 100%; 
+    position: fixed; 
+    z-index: 1;
+}
+.navbarimg 
+{ 
+    height: 40px;
+     width: 120px; 
+}
+.nav-link 
+{ 
+    font-size: 1.2rem; 
+}
+li:hover a 
+{ 
+    transition: .5s;
+    box-sizing: border-box;
+    width: 100%;
+    border: solid #000000 0.21rem;
+    padding: 0.4rem; 
+    border-top: 0rem;
+    border-left: 0rem;
+    border-right: 0rem; 
+}
+/*section1*/
+.s1 
+{ 
+    padding-top: 70px;
+}
+.carousel-indicators 
+{ 
+    z-index: 0;
+}
+.carousel 
+{ 
+    z-index: 0;
+}
+.row3 
+{ 
+    text-align: center;
+}
+.btn-primary 
+{
+     height: 30px; 
+     width: 100px; 
+     border-radius: 6px;
+}
+/*section2*/
+.box1
+{ 
+    width: 500px; 
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 20px; 
+    padding: 25px; 
+    height: 600px;
+    width: 50%; 
+    margin: 0 auto; 
+    height: 590px; 
+}
+.center
+{ 
+    text-align: center;
+}    
+.options
+{ 
+    margin-bottom: 2px; 
+}
+.btn 
+{  
+    margin: auto; 
+    width: 150px;
+    margin-top: 10px;
+}
+.section2 
+{ 
+    margin-top: 30px;
+}
+/*section3*/
+.card
+{ 
+    background-color: rgba(240, 248, 255, 0);}
+.section3 
+{ 
+    margin-top: 30px;
+}
+/*footer*/
+.ftimg 
+{
+     width: 400px;
+     margin: 0 auto;
+}
