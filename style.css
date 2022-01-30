@@ -60,7 +60,6 @@ li:hover a
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     margin-top: 20px; 
     padding: 25px; 
-    width: 50%; 
     margin: 0 auto; 
 }
 .center
@@ -81,12 +80,15 @@ li:hover a
     margin-top: 30px;
 }
 /*section3*/
-.card
-{ 
-    background-color: rgba(240, 248, 255, 0);}
+
 .section3 
 { 
+    background-color: #cfe1e9;
     margin-top: 30px;
+}
+.card-body
+{
+    background-color: #c3d3da;
 }
 /*footer*/
 .ftimg 
