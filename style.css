@@ -5,7 +5,7 @@ html
 /*navbar*/
 .navbar
 { 
-    background-color: #9dd3d0; 
+    background-color: #afe6e6; 
     width: 100%; 
     position: fixed; 
     z-index: 1;
@@ -62,7 +62,7 @@ form
 }
 .btn
 {
-    background-color: #9dd3d0;
+    background-color: #9dd1d3;
     border-radius: 5px;
 }
 .container 
@@ -77,9 +77,11 @@ form
     color: rgb(110, 108, 108);
 }
 
-/* section4*/
+/* section3*/
 .s3head
 {
+    text-align: center;
+    margin-bottom: none;
     font-size: 20px;
     text-decoration: underline;
 }
@@ -90,7 +92,7 @@ form
 .Mentor
 {
       text-align: center;
-      background-color: #cbebf0;
+      background-color: #d4e2e4;
       align-items: center;
 }
 
