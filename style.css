@@ -44,58 +44,46 @@ li:hover a
 { 
     z-index: 0;
 }
-.row3 
-{ 
-    text-align: center;
-}
-.btn-primary 
+/* section2*/
+.s2para
 {
-     height: 30px; 
-     width: 100px; 
-     border-radius: 6px;
+    text-align: center; 
+    font-size: x-large;font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
 }
-/*section2*/
-.box1
-{ 
-    width: 500px; 
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    margin-top: 20px; 
-    padding: 25px; 
-    margin: 0 auto; 
-}
-.center
-{ 
-    text-align: center;
-}    
-.options
-{ 
-    margin-bottom: 2px; 
-}
-.btn 
-{  
-    margin: auto; 
-    width: 150px;
-}
-.section2 
-{ 
-    margin-top: 30px;
+.btn-primary
+{
+    border-radius: 5px;
 }
 /*section3*/
-
-.section3 
-{ 
-    background-color: #cfe1e9;
-    margin-top: 30px;
-}
-.card-body
+.form_box
 {
-    background-color: #c3d3da;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 5px;
+    margin:5% auto 5%;
+    width: 50%;
+    padding: 2%;
 }
-/*footer*/
-.ftimg 
+.text_center{
+    text-align: center;
+}
+.s3btn
 {
-     margin: 0 auto;
+    margin:2% auto; 
+    width: 150px;
+    background-color: #9dd3d0;
+    border-radius: 5px;
 }
-.ftimg{
-    width: 100%;
+/* section4*/
+.section4
+{
+    background-color: #d8eff3;
+}
+.s4head
+{
+    text-decoration: underline;
+}
+.card 
+{
+    
 }
